@@ -1,5 +1,5 @@
 .bgcl {
-  background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+  background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
 }
 
 .down1 {
@@ -25,12 +25,12 @@
   height: 200px;
 }
 
-.vl>div {
+.vl > div {
   text-align: center;
   justify-content: center;
 }
 
-.small>a>img {
+.small > a > img {
   height: 25px;
   width: 25px;
   border-radius: 0%;

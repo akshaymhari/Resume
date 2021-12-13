@@ -22,7 +22,7 @@ import { ContentComponent } from './content/content.component';
     ContactComponent,
     HomeComponent,
     FooterComponent,
-    ContentComponent
+    ContentComponent,
   ],
   imports: [
     BrowserModule,
@@ -31,10 +31,9 @@ import { ContentComponent } from './content/content.component';
     MatCardModule,
     MatButtonModule,
     MatInputModule,
-    MatIconModule
-
+    MatIconModule,
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
