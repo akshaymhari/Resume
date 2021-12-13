@@ -1,0 +1,41 @@
+.bgcl {
+  background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+}
+
+.down1 {
+  padding-top: 20px;
+}
+
+.example-card {
+  max-width: 1300px;
+}
+
+.centre {
+  padding-top: 50px;
+  margin: auto;
+  width: 80%;
+}
+
+.top {
+  margin-top: 50px;
+}
+
+.vl {
+  border-right: 1px solid #393e46;
+  height: 200px;
+}
+
+.vl>div {
+  text-align: center;
+  justify-content: center;
+}
+
+.small>a>img {
+  height: 25px;
+  width: 25px;
+  border-radius: 0%;
+}
+
+.pad {
+  padding-top: 40px;
+}
