@@ -3,3 +3,13 @@
   width: 50%;
   text-align: center;
 }
+
+embed{
+  width: 60%;
+  height: 900px;
+}
+
+.middle{
+  margin: auto;
+  text-align: center;
+}
